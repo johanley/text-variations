@@ -3,7 +3,7 @@ Track differences between versions of classic literary texts.
 I like to print custom books using services such as lulu.com.
 
 I want to print classic literary texts.
-The the quality of freely available, public domain texts online is not the best.
+The the quality of freely available, public domain texts online is not always 100% reliable.
 In order to produce a text of high quality, you need to edit such texts in detail.
 I'm using this project to track my sources of texts, and the sets of corrections that I want to apply to them.
 
