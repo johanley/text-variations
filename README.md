@@ -8,4 +8,3 @@ I'm using this project to track my sources of texts, and the sets of corrections
 As expected, most corrections are minor, but some are not.
 
 It's surprising how errors can sometimes propagate from one source to another for a long time.
-
