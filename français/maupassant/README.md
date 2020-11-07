@@ -11,6 +11,8 @@ Les textes numériques de Thierry Selva sont basés, le plus souvent, sur l'édi
 En 2016, Thierry Selva a effectué une comparaison (avec un logiciel) de ses textes avec les textes de Maupassantiana, 
 pour trouver les différences et effectuer des changements.
 
+http://maupassant.free.fr/biblio.html
+Premières éditions.
 
 Ici, je compare des textes de Louis Conard (Oeuvres Complètes; livres physiques) avec les textes de Maupassantiana (sur le web).
 J'ai choisi seulement les contes qui m'intéressent.
