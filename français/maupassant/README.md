@@ -14,7 +14,8 @@ pour trouver les différences et effectuer des changements.
 http://maupassant.free.fr/biblio.html
 Premières éditions.
 
-Ici, je compare des textes de Louis Conard (Oeuvres Complètes; livres physiques) avec les textes de Maupassantiana (sur le web).
+Ici, je compare des textes de Louis Conard (Oeuvres Complètes; livres physiques) parfois avec les textes de Maupassantiana (sur le web),
+et parfois avec les textes de Thierry Selva.
 J'ai choisi seulement les contes qui m'intéressent.
 Je recense les discordances. Je n'utilise pas de logiciel pour faire cette comparaison.
 
