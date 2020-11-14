@@ -22,6 +22,6 @@ Je recense les discordances. Je n'utilise pas de logiciel pour faire cette compa
 Le français n'est pas ma langue maternelle. Je suis au niveau B2. 
 Mais quand on cherche des variantes, une connaissance parfaite de la langue n'est pas nécessaire.
 
-Mon but est simplement d'avoir des textes de hauts qualités.
+Mon but est simplement d'avoir des textes de hautes qualités.
 Je voudrais faire imprimer un livre de mes contes préférés, pour mon propre plaisir.
 
